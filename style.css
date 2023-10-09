@@ -1,0 +1,58 @@
+body{
+    background: url("logns.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.selects{
+    width: 85%;
+
+}
+.container{
+    padding-top: 20px;
+    box-sizing: border-box;
+    height: 100%;
+    width: 700px;
+    background: #b2b2b2;
+    padding-left:7% ;
+    border-radius: 5%;
+
+}
+h1{
+    padding-left: 29%;
+}
+.inputs{
+    width: 80%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: white;
+}
+.inputs:focus{
+    background: #dddddd;
+    outline: none;
+}
+
+.area{
+    opacity: 0.9;
+    padding-left: 24%;
+    padding-top: 3%;
+
+}
+label{
+    font-size: 20px;
+}
+.buttons-primary{
+    width: 200px;
+    height: 40px;
+    background: #017bff;
+    outline: none;
+    border: none;
+}
+.buttons-warning{
+    width: 200px;
+    height: 40px;
+    background: #ffc008;
+    outline: none;
+    border: none;   
+}   
+
